@@ -1,3 +1,5 @@
+![logo(https://github.com/AkhileshEdulab/Akhil_Tech/blob/main/images%20(1).jfif)
+
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
